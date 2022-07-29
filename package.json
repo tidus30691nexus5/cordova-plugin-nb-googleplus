@@ -6,26 +6,14 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jpmdik/cordova-plugin-fix-googleplus.git"
+    "url": "https://github.com/tidus30691nexus5/cordova-plugin-nb-googleplus.git"
   },
   "bugs": {
-    "url": "https://github.com/jpmdik/cordova-plugin-fix-googleplus/issues"
+    "url": "https://github.com/tidus30691nexus5/cordova-plugin-nb-googleplus/issues"
   },
-  "homepage": "https://github.com/jpmdik/cordova-plugin-fix-googleplus#readme",
+  "homepage": "https://github.com/tidus30691nexus5/cordova-plugin-nb-googleplus#readme",
   "keywords": [
-    "Google",
-    "Google SignIn",
-    "Google Sign In",
-    "GoogleSignIn",
-    "Google Login",
-    "Google Plus",
-    "Login",
-    "OAuth",
-    "Identity",
-    "Authentication",
-    "ecosystem:cordova",
-    "cordova-android",
-    "cordova-ios"
+    "Google"
   ],
   "platforms": [
     "android",
