@@ -1,6 +1,6 @@
 {
   "version": "8.5.3",
-  "name": "cordova-plugin-fix-googleplus",
+  "name": "cordova-plugin-nb-googleplus",
   "cordova_name": "Google SignIn",
   "description": "Use your Google account to authenticate with the app.",
   "license": "MIT",
